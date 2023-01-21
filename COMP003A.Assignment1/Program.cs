@@ -23,7 +23,7 @@ namespace COMP003A.Assignment1
             Console.WriteLine("12. Another game I like is a tabletop game, D&D");
             Console.WriteLine("13. I've only every played Fifth Edition of D&D (5e)");
             Console.WriteLine("14. I've played a bunch of characters over the years.");
-            Console.WriteLine("15. What was fun was completing a 1.5 year campaign");
+            Console.WriteLine("15. What was fun was completing a 1.6 year campaign");
             Console.WriteLine("16. Our party name was 'The Wayfaring Strangers'");
             Console.WriteLine("17. I played a Hexblade Warlock for that game, it was super fun!");
             Console.WriteLine("18. Our playgroup started a new campaign after the conclusion of the last one");
